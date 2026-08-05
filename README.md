@@ -116,7 +116,6 @@ Two invariants that catch structural errors better than reading the output:
   first.
 - No loss computed. Average negative log-likelihood is the next step, and it is
   what actually shows the trigram beats the bigram.
-- `makemore_pt1_bigram.ipynb` is the original bigram work this was built from.
 
 ## Credit
 
